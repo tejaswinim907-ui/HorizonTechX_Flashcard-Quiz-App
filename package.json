@@ -6,5 +6,24 @@
   "devDependencies": {
     "@tailwindcss/vite": "^4.3.1",
     "tailwindcss": "^4.3.1"
-  }
+  },
+  "name": "flashcard-quiz-app",
+  "version": "1.0.0",
+  "description": "Flashcard Quiz App built using React and Vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejaswinim907-ui/HorizonTechX_Flashcard-Quiz-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tejaswinim907-ui/HorizonTechX_Flashcard-Quiz-App/issues"
+  },
+  "homepage": "https://github.com/tejaswinim907-ui/HorizonTechX_Flashcard-Quiz-App#readme"
 }
