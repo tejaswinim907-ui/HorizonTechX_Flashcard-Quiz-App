@@ -1,0 +1,22 @@
+/* Reset default browser styles */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eef2f7;
+  color: #333;
+}
+
+/* Make buttons and inputs use the same font */
+
+button,
+input {
+  font-family: inherit;
+}

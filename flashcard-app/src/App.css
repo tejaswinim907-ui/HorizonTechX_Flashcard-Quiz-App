@@ -1,0 +1,82 @@
+body{
+    margin:0;
+    background:#eef2f7;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.container{
+    text-align:center;
+    padding:30px;
+}
+
+h1{
+    font-size:60px;
+    margin-bottom:25px;
+}
+
+.card,
+.form{
+    width:550px;
+    margin:25px auto;
+    background:white;
+    padding:25px;
+    border-radius:12px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.25);
+}
+
+.card-count{
+    color:#1976d2;
+    font-size:22px;
+    margin-bottom:15px;
+}
+
+.card p{
+    font-size:26px;
+    color:#555;
+}
+
+input{
+    width:92%;
+    padding:12px;
+    margin:12px 0;
+    font-size:18px;
+}
+
+button{
+    border:none;
+    color:white;
+    padding:12px 18px;
+    margin:8px;
+    font-size:16px;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+button:hover{
+    transform:scale(1.05);
+    transition:0.3s;
+}
+
+.show{
+    background:#1565c0;
+}
+
+.blue{
+    background:#1976d2;
+}
+
+.green{
+    background:#2e7d32;
+}
+
+.orange{
+    background:#ef6c00;
+}
+
+.red{
+    background:#d32f2f;
+}
+
+.button-group{
+    margin-top:20px;
+}
